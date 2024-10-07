@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="200" src="https://images.emojiterra.com/google/android-10/512px/1f468-1f3fb-1f4bb.png"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ammarjawed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -15,7 +21,7 @@
 
 ###
 
-<h1 align="center">👩‍💻  About Me</h1>
+<h1 align="center">__aboutme__</h1>
 
 ###
 
@@ -23,11 +29,11 @@
 
 ###
 
-<h3 align="left">🛠 Techs</h3>
+<h3 align="center">🛠 Techs</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
