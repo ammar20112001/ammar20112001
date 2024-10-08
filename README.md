@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://images.emojiterra.com/google/android-10/512px/1f468-1f3fb-1f4bb.png"  />
+  <img height="125" src="https://images.emojiterra.com/google/android-10/512px/1f468-1f3fb-1f4bb.png"  />
 </div>
 
 ###
@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="center">__aboutme__</h1>
+<h2 align="center">__aboutme__</h2>
 
 ###
 
-<p align="left">I'm Ammar, originally from Pakistan and living in Kuwait. <br>I'm majoring in CS and I'm self learning AI, everything from studying theory of Machine Learning and Deep Learning to writing code and exploring the engineering side of things. <br>In short, I love CODING and in the next few months, I've set myself up to equip all the necessary knowledge and tools to built a production ready AI powered application.<br><br>So far, I've built a few projects (checkout my pinned repos) and worked as an internee for a startup company building AI powered product and spent 100's of hours studying Machine Learning and Deep Learning theory and state-of-the-art work and research papers.<br><br>📚 I'm working towards getting the following stack of technologies under my belt:<br>--- Cloud computing: AWS, GCP<br>--- LLM framework and libraries: Langchain, NLTK, LlamaIndex<br>--- Big data technologies: Hadoop, Spark<br>--- Production: Docker, Kubernetes<br><br>⚡ My current stack: PyTorch, PyTorch Lightning, TensorFlow, Keras, Transformers, Pandas, NumPy, Scikit-Learn, Matplotlib, Weights & Biases</p>
+<p align="left">I'm Ammar, from Pakistan and living in Kuwait. I'm majoring in CS and I'm self learning AI, everything from studying theory of Machine Learning and Deep Learning to writing code and exploring the engineering side of things. In short, I love CODING and in the next few months, I've set myself up to equip all the necessary knowledge and tools to build production ready AI powered applications.<br><br>So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked as an internee for a startup company building AI powered product and spent 100's of hours studying Machine Learning and Deep Learning theory and state-of-the-art work and research papers.<br><br>📚 I'm working towards getting the following stack of technologies under my belt:<br>--- Cloud computing: AWS, GCP<br>--- LLM framework and libraries: Langchain, NLTK, LlamaIndex<br>--- Big data technologies: Hadoop, Spark<br>--- Production: Docker, Kubernetes<br><br>⚡ My tech stack: PyTorch, PyTorch Lightning, TensorFlow, Keras, Transformers, Pandas, NumPy, Scikit-Learn, Matplotlib, Weights & Biases</p>
 
 ###
 
