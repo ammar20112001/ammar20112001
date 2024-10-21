@@ -36,9 +36,9 @@ So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked a
 <h3 align="left">🛠 Techs</h3>
 
 Python, C, SQL
-<br>Flask, FastAPI, Docker, AWS Lambda
+<br>Flask, Docker, AWS Lambda
 <br>PyTorch, PyTorch Lightning
-<br>Transformers, Langchain, NLTK, LlamaIndex
+<br>Transformers, Langchain
 <br>Pandas, NumPy, Scikit-Learn, Matplotlib
 <br>Weights & Biases
 
@@ -53,8 +53,6 @@ Python, C, SQL
   <img width="12" />
   <img src="https://i.ibb.co/hH6HpkF/file-icons-flask.png" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co/WznnGj2/skill-icons-fastapi.png" height="40" alt="fastapi logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/dtnKr2P/vscode-icons-file-type-docker2.png" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://i.ibb.co/fNqxY7R/aws-lambda-1024x1021.png" height="40" alt="aws lambda logo"  />
@@ -67,9 +65,6 @@ Python, C, SQL
   <img width="12" />
   <img src="https://i.ibb.co/LknLv9X/simple-icons-langchain.png" height="40" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co/31thNTW/1-5d-QO7-LHrsy3l-Ii2d0bg-RLw.png" height="40" alt="nltk logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/TvsbjJf/655df7e9805dd2bd768367ef-llamaindex-removebg-preview.png" height="40" alt="llamaindex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
