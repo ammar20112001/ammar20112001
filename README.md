@@ -36,7 +36,7 @@ So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked a
 <h3 align="left">🛠 Techs</h3>
 
 Python, C, SQL
-<br>Flask, Docker, AWS Lambda
+<br>Flask, Docker, AWS Lambda, S3
 <br>PyTorch, PyTorch Lightning
 <br>Transformers, Langchain
 <br>Pandas, NumPy, Scikit-Learn, Matplotlib
@@ -74,12 +74,6 @@ Python, C, SQL
   <img src="https://i.ibb.co/z4YsGc4/devicon-matplotlib.png" height="40" alt="matplotlib logo"  />
   <img width="12" />
   <img src="https://i.ibb.co/QmRmd7M/simple-icons-weightsandbiases.png" height="40" alt="wandb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
