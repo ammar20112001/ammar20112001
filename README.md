@@ -35,7 +35,7 @@ So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked a
 
 <h3 align="left">🛠 Techs</h3>
 
-Python, C, SQL
+Python, C / C++, SQL
 <br>Flask, Docker, AWS Lambda, S3
 <br>PyTorch, PyTorch Lightning
 <br>Transformers, Langchain
