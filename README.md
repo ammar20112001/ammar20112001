@@ -46,41 +46,23 @@ Python, C / C++, SQL
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/DKDF0bP/ph-file-sql-light.png" height="40" alt="SQL"  />
-  <img width="12" />
   <img src="https://i.ibb.co/hH6HpkF/file-icons-flask.png" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/z55CzGz/streamlit-logo.png" alt="Streamlit" height="50"/>
-  <img width="12" />
   <img src="https://i.ibb.co/dtnKr2P/vscode-icons-file-type-docker2.png" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/fNqxY7R/aws-lambda-1024x1021.png" height="40" alt="aws lambda logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/jb9xddb/pytorch-lightning-logo.png" height="40" alt="ligthning logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/BzLrJQ2/hf-logo.png" height="40" alt="transformers logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/LknLv9X/simple-icons-langchain.png" height="40" alt="langchain logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/thdPt0w/openai-chatgpt-logo.webp" alt="OpenAI GPT" height="40"/>
-  <img width="12" />
   <img src="https://img.icons8.com/fluency/48/000000/google-cloud.png" alt="Google Cloud" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/DDV07fg/devicon-scikitlearn.png" height="40" alt="scikit learn logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/z4YsGc4/devicon-matplotlib.png" height="40" alt="matplotlib logo"  />
-  <img width="12" />
   <img src="https://i.ibb.co/QmRmd7M/simple-icons-weightsandbiases.png" height="40" alt="wandb logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
