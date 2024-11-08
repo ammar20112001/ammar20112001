@@ -36,9 +36,9 @@ So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked a
 <h3 align="left">🛠 Techs</h3>
 
 Python, C / C++, SQL
-<br>Flask, Docker, AWS Lambda, S3
+<br>Flask, Streamlit, Docker, AWS Lambda, S3
 <br>PyTorch, PyTorch Lightning
-<br>Transformers, Langchain
+<br>Transformers, Langchain, OpenAI, Google API, 
 <br>Pandas, NumPy, Scikit-Learn, Matplotlib
 <br>Weights & Biases
 
@@ -53,6 +53,8 @@ Python, C / C++, SQL
   <img width="12" />
   <img src="https://i.ibb.co/hH6HpkF/file-icons-flask.png" height="40" alt="flask logo"  />
   <img width="12" />
+  <img src="https://i.ibb.co/z55CzGz/streamlit-logo.png" alt="Streamlit" height="50"/>
+  <img width="12" />
   <img src="https://i.ibb.co/dtnKr2P/vscode-icons-file-type-docker2.png" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://i.ibb.co/fNqxY7R/aws-lambda-1024x1021.png" height="40" alt="aws lambda logo"  />
@@ -64,6 +66,10 @@ Python, C / C++, SQL
   <img src="https://i.ibb.co/BzLrJQ2/hf-logo.png" height="40" alt="transformers logo"  />
   <img width="12" />
   <img src="https://i.ibb.co/LknLv9X/simple-icons-langchain.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co/thdPt0w/openai-chatgpt-logo.webp" alt="OpenAI GPT" height="40"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/000000/google-cloud.png" alt="Google Cloud" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
