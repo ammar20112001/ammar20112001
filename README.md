@@ -38,7 +38,7 @@ So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked a
 Python, C / C++, SQL
 <br>Flask, Streamlit, Docker, AWS Lambda, S3
 <br>PyTorch, PyTorch Lightning
-<br>Transformers, Langchain, OpenAI, Google API, 
+<br>Transformers, Langchain, OpenAI, Google API
 <br>Pandas, NumPy, Scikit-Learn, Matplotlib
 <br>Weights & Biases
 
