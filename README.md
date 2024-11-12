@@ -25,11 +25,11 @@
 
 ###
 
-<p align="left">I'm Ammar, from Pakistan, living in Kuwait. I'm a CS undergrad and self learning AI, everything I can from the theory of Machine Learning and Deep Learning to writing code and exploring the engineering side of things. In short, I love to CODE, and I love to write ML code. 
-  
-In the next few months, I've set myself up to equip all the necessary knowledge and tools to build minimal production ready AI powered application.
+<p align="left">I'm Ammar, from Pakistan, living in Kuwait. I'm a CS undergrad and a self taught AI/NLP specialist and back-end dev, with solid foundation on python internals.
 
-So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked as an internee for a startup company as an AI developer and have spent 100's of hours studying Machine Learning and Deep Learning theory and state-of-the-art research work and papers.
+So far, I've built a few projects <b>(checkout my pinned repos)</b> and worked as an internee for a startup company as an AI developer, and have spent 100's of hours studying Machine Learning and Deep Learning theory and state-of-the-art research work and papers.
+
+I love to CODE, and I love to write ML code. 
 
 ###
 
