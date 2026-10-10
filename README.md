@@ -1,7 +1,3 @@
-# Ammar Jawed — ML Engineer
-
----
-
 ML Engineer at Appedology, Karachi. I lead end-to-end delivery of production AI systems in healthcare and medical billing.
 
 **Production**
