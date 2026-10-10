@@ -7,7 +7,7 @@ ML Engineer at Appedology, Karachi. I lead end-to-end delivery of production AI 
 - Medical billing agent: rebuilt a multi-tenant SaaS into a resumable, audited pipeline
 
 **Research**
-- AI-generated video detection: ~1.5TB curated, semantic + motion models trained with DDP on 8x A100s, ~85% on unseen holdout data
+- [AI-generated video detection](https://claude.ai/code/artifact/eae853e5-854a-4479-a5f3-5838f8aaaceb): ~1.5TB curated, semantic + motion models trained with DDP on 8x A100s, ~85% on unseen holdout data
 - Privacy-preserving fraud detection: spiking neural network running inference on homomorphically encrypted inputs
 
 **Stack:** Python, PyTorch, FastAPI, XGBoost, MCP, Celery/RabbitMQ, Postgres/MySQL, Docker, React
